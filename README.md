@@ -1,4 +1,4 @@
-# PIPLUP
+# ![Alt Text](Logo_Text.png)
 ## a sober modding tool.
 
 **Piplup** is a modding tool for sober which allows for changing textures changing meshes and etc
